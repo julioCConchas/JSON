@@ -1,15 +1,15 @@
 {
   "figthers":[
     { "name":"Muhammad Ali",
-      “nickname”:”The Greatest”
+      "nickname":"The Greatest"
     },
     {
-      “name”:”Chuck Linddell”,
-      “nickname”:”The Iceman”
+      "name":"Chuck Linddell",
+      "nickname":"The Iceman"
     },
     {
-      “name”:”Rocky Marciano”,
-      “nickname”:”The Brockton Blockbuster"
+      "name":"Rocky Marciano",
+      "nickname":"The Brockton Blockbuster"
     }
   ]
 }
