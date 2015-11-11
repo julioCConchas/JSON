@@ -3,7 +3,7 @@
   { "name":"Jeff Haynie"},
   { "name":"Nolan Wright"},
   { "name":"Don Thorp"},
-  { "name":"Marshall Culpepper"}
+  { "name":"Marshall Culpepper"},
   { "name":"Blain Hamon"}
  ]
 }
