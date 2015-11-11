@@ -1,5 +1,5 @@
 {
-  "fighters":{
+  "fighters":[
     { "name":"Muhammad Ali",
       "nickname":"The Greatest"
     },
@@ -11,5 +11,5 @@
       "name":"Rocky Marciano",
       "nickname":"The Brockton Blockbuster"
     }
-  }
+  ]
 }
