@@ -1,6 +1,6 @@
 {
  "captured":[
-  { "name":"Jeff Haynie"},
+  { "name":"Jeffe Haynie"},
   { "name":"Nolan Wright"},
   { "name":"Don Thorp"},
   { "name":"Marshall Culpepper"},
