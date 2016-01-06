@@ -24,7 +24,7 @@
     {
       "name":"Office",
       "addrees":"CSW",
-      "image":"http://www.cncs.mx/Content/Public/Images/Uploads/439itexico_logo.png",
+      "image":"http://2013.ticonf.us/images/itexico_logo.png",
       "latitude":"20.65731664",
       "longitude":"-103.39767158"
     }
