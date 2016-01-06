@@ -24,7 +24,7 @@
     {
       "name":"Office",
       "addrees":"CSW",
-      "image":"http://2013.ticonf.us/images/itexico_logo.png",
+      "image":"https://pbs.twimg.com/profile_images/3750853704/36fdc371baafa84ddfb35f5d31d40cea_bigger.png",
       "latitude":"20.65731664",
       "longitude":"-103.39767158"
     }
